@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/FirstPick/JarFiles/selenium-java-2.28.0-srcs.jar"/>
+	<classpathentry kind="lib" path="/FirstPick/JarFiles/selenium-java-2.28.0.jar"/>
+	<classpathentry kind="lib" path="/FirstPick/JarFiles/selenium-server-standalone-2.28.0 (1).jar"/>
+	<classpathentry kind="lib" path="/jars/poi-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/jars/mail.jar"/>
+	<classpathentry kind="lib" path="/jars/jxl-2.6.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CommonFunctions"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MailSending"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
